@@ -1,0 +1,27 @@
+.App {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-align: center;
+}
+body {
+  background-color: rgb(182, 239, 249);
+}
+.listTodos {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: auto;
+  width: 50%;
+  margin: auto;
+  border: 2px solid lightgray;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+.formInput {
+  width: 95%;
+  height: 20px;
+  margin: auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
